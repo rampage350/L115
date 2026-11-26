@@ -1,0 +1,58 @@
+{
+  "eec8a5a46424c950d2cc58f7": {
+    "itemTplToClone": "5fc23426900b1d5091531e15",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "mags/mag_l115_standard.bundle",
+        "rcid": ""
+      },
+      "UsePrefab": {
+        "path": "mags/mag_l115_standard.bundle",
+        "rcid": ""
+      },
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "ExtraSizeDown": 1
+    },
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "fleaPriceRoubles": 22000,
+    "handbookPriceRoubles": 18000,
+    "locales": {
+      "en": {
+        "name": "L115 Standard",
+        "shortName": "L115 Std",
+        "description": "Standard 5-round magazine for the L115 AWM."
+      }
+    }
+  },
+  "3a98207c131501610751e6d1": {
+    "itemTplToClone": "5fc23426900b1d5091531e15",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "mags/mag_l115_large_mag.bundle",
+        "rcid": ""
+      },
+      "UsePrefab": {
+        "path": "mags/mag_l115_large_mag.bundle",
+        "rcid": ""
+      },
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "ExtraSizeDown": 1
+    },
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "fleaPriceRoubles": 30000,
+    "handbookPriceRoubles": 25000,
+    "locales": {
+      "en": {
+        "name": "L115 Large Mag",
+        "shortName": "L115 Large",
+        "description": "Large 10-round magazine for the L115 AWM."
+      }
+    }
+  }
+}

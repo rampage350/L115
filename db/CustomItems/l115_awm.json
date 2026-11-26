@@ -1,0 +1,30 @@
+{
+  "075bf2c90db641beb8b42453": {
+    "itemTplToClone": "5bfea6e90db834001b7347f3",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "weapons/l115_awm.bundle",
+        "rcid": ""
+      },
+      "UsePrefab": {
+        "path": "weapons/l115_awm.bundle",
+        "rcid": ""
+      },
+      "Weight": 6.5,
+      "ExaminedByDefault": true,
+      "Width": 6,
+      "Height": 1
+    },
+    "parentId": "5447b6254bdc2dc3278b4568",
+    "handbookParentId": "5b5f798886f77447ed5636b5",
+    "fleaPriceRoubles": 450000,
+    "handbookPriceRoubles": 380000,
+    "locales": {
+      "en": {
+        "name": "L115 AWM bolt-action sniper rifle",
+        "shortName": "L115",
+        "description": "Long-range bolt-action sniper rifle chambered in .338 Lapua Magnum."
+      }
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "ammoCaliber": "Caliber338LapuaMag",
+  "ammoTpls": [
+    "5fc382a9d724d907e2077dab",
+    "5fc382b6d6b5ea6c15288203",
+    "5fc382c1016cce60e8341b20"
+  ],
+  "addToTraders": true,
+  "traders": [
+    {
+      "id": "54cb50c76803fa8b248b4571",
+      "name": "Prapor",
+      "offers": [
+        {
+          "loyaltyLevel": 1,
+          "priceRoubles": 300000
+        },
+        {
+          "loyaltyLevel": 2,
+          "priceRoubles": 250000
+        },
+        {
+          "loyaltyLevel": 3,
+          "priceRoubles": 200000
+        }
+      ]
+    }
+  ],
+  "weapons": [
+    "075bf2c90db641beb8b42453"
+  ],
+  "magazines": [
+    "eec8a5a46424c950d2cc58f7",
+    "3a98207c131501610751e6d1"
+  ],
+  "magazineCapacity": {
+    "eec8a5a46424c950d2cc58f7": 5,
+    "3a98207c131501610751e6d1": 10
+  },
+  "copyMuzzleAndMountCompatFrom": "5fc22d7c187fea44d52eda44",
+  "weaponWidth": 6,
+  "weaponHeight": 1,
+  "magazineExtraSizeDown": 1,
+  "muzzle": {
+    "enabled": true,
+    "slotName": "mod_muzzle",
+    "calibers": [
+      "Caliber762x51",
+      "Caliber308",
+      "Caliber762x54R",
+      "Caliber338LapuaMag",
+      "Caliber86x70",
+      "Caliber127x99",
+      "Caliber50BMG"
+    ],
+    "extraItems": [],
+    "excludeItems": [],
+    "excludeNameContains": [
+      "_762x39",
+      "_545x39",
+      "_556x45",
+      "_9x39",
+      "_9x19",
+      "_9x18",
+      "_9x21",
+      "_57x28",
+      "_46x30",
+      "_366tkm",
+      "_1143x23",
+      "_12g",
+      "_22lr",
+      "_68x51",
+      "_65x35"
+    ]
+  }
+}
